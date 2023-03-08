@@ -45,8 +45,7 @@ Open a web browser and go to http://localhost:8050
 ## Conclusion
 The genetics algorithm for optimizing DBscan parameters `eps` and `min_samples` provides a flexible and customizable way to find the optimal parameters for any given dataset. The implementation from scratch provides a deep understanding of the underlying algorithm and allows for customization and extension as needed. The deployment using Flask and Plotly Dash provides a user-friendly interface for interacting with the algorithm and visualizing the results.
 
+![image](https://user-images.githubusercontent.com/48560237/223807351-aa9d30d9-ebce-41c4-8f57-83ffe1c34064.png)
 
 
-![Screenshot of the genetics algorithm web application](file:///home/elfeky/Pictures/Screenshots/Screenshot%20from%202023-03-08%2020-33-21.png)
-
-![Screenshot of the genetics algorithm web application](file:///home/elfeky/Pictures/Screenshots/Screenshot%20from%202023-03-08%2020-33-49.png)
+![image](https://user-images.githubusercontent.com/48560237/223807288-21f79c3a-515f-40a0-8854-10e24814d4c4.png)
